@@ -1,6 +1,15 @@
 models
 >> consisting generated onnx models of milestone report and final report
 
+detected_images
+>> comparing the detected test images of milestone model and final model
+
+detected_video_basket
+>> comparing the detected test basket video of milestone model and final model
+
+detected_video_trolley
+>> comparing the detected test trolley video of milestone model and final model
+
 IT110-Grocery.v1i.coco.zip
 IT110-Grocery.v1i.yolov8.zip
 >> old dataset for model training
